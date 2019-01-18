@@ -14,4 +14,8 @@ public class MainActivity extends AppCompatActivity {
     public void doSomething() {
         
     }
+    
+    public void bruh() {
+        
+    }
 }
